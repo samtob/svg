@@ -19,7 +19,6 @@ overflow-x : hidden;
 }
 </style>
 <div id="svgicon">
-
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"   height="auto" viewBox="0 0 1920 1080">
   <defs>
     <clipPath id="clip-Web_1920_1">
@@ -34,8 +33,6 @@ overflow-x : hidden;
     <path id="Path_2" data-name="Path 2" d="M1943.2,620.665s-174.018,165.317-174.018,174.018,82.659,219.7,110.212,292.931,98.61,0,98.61,0Z" fill="#8f6262"/>
   </g>
 </svg>
-
 </div>
-<h1> Hello </h1>
 </body>
 </html>
