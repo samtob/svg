@@ -1,16 +1,18 @@
 <html>
 <head>
 <title>SVG</title>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"> </script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+
 </head>
 <body>
 <style>
 html, body {
 margin: 0 auto;
 overflow-x : hidden;
-
+height: 100%;
 }
 
 #svgicon > .a {
@@ -70,16 +72,17 @@ h1 {
                 text-decoration: none;
                 text-transform: uppercase;
             }
-/*#text {
+#text {
 display: flex;
 text-align: center;
-  justify-content: center;
-  align-items: center;
-}*/
+justify-content: center;
+height: 100%;
+ align-items: center;
+}
 </style>
 <div id="container">
-<div id="text" class="d-flex h-100 justify-content-center align-items-center">
-<div style="width: 700px;" class="container">
+<div id="text">
+<div style="width: 700px;">
     <h1> Welcome to <span style="font-weight: 800; color: blue;">WittStack.io</span>. Here you tend to learn Web Development From Scratch. This App is built with SVG, <span style="color: pink;">Laravel</span>, <span style="color: green;">Vue</span> and little touch of Ajax and XML </h1>
     <em><p style="color: green;">Learn how to become a Certified Front End Website Developer</p></em>
 
