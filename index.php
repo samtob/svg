@@ -68,7 +68,7 @@
                             .links > a {
                                 color: #636b6f;
                                 padding: 0 25px;
-                                font-size: 15px;
+                                font-size: 25px;
                                 font-weight: 600;
                                 letter-spacing: .1rem;
                                 text-decoration: none;
@@ -81,7 +81,7 @@
                 display: flex;
                 justify-content: center;
                 text-align: center;
-                font-size: 25px;
+                font-size: 30px;
                 height: 100%;
                 align-items: center;
                 }
@@ -107,7 +107,7 @@
     <div id="startfront">
     <p> Welcome to <span style="font-weight: 800; color: blue;">WittStack.io</span>. Here you tend to learn Web Development From Scratch. This App is built with SVG, <span style="color: pink;">Laravel</span>, <span style="color: green;">Vue</span> and little touch of Ajax and XML </p>
     <em><p style="color: green; font-size: 16px;">Learn how to become a Certified Front End Website Developer</p></em>
-<a href="/start"><button style="border-bottom: 4px solid darkgreen; width: 100%;" class="btn btn-lg btn-success shadow">Get Started </button></a>
+<a href="/start"><button style="font-size: 22px; border-bottom: 4px solid darkgreen; width: 100%;" class="btn btn-lg btn-success shadow">Get Started </button></a>
 </div>
 </div>
 </div>
